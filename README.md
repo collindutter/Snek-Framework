@@ -12,4 +12,4 @@ The Snek Framework is an advanced development toolchain designed to speed up dev
 - 🐍
 
 ## Development
-Pull requests are accepted, but are not likely to be accepted. *Please* search the currently opened tickets before submitting a bug report.
+Pull requests are welcome, but are not guaranteed to be accepted. *Please* search the currently open tickets before submitting a bug report.
