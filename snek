@@ -1,5 +1,14 @@
 #!/bin/bash
-for i in $(eval echo {1..$1})
-do
+
+snek() {
     echo $'\xF0\x9F\x90\x8D'
-done
+}
+
+if [ $(($1)) -lt 1 ]; then
+    snek
+else
+    for i in $(eval echo {1..$1})
+    do
+        snek
+    done
+fi
