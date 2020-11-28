@@ -9,6 +9,7 @@ The Snek Framework is an advanced development toolchain designed to speed up dev
 - Cross referential relational database analysis.
 - Deep neural network maintenance.
 - 5G AI Clouds
+- Apple Silicon
 - 🐍
 
 ## Development
